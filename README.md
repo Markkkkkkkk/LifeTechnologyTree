@@ -24,6 +24,10 @@
 
    **简介**：提供了大致的大数据系统上的架构图，给初学者一个基本印象，知道一个基本的完整的大数据架构应该是怎样的，作为一个简单了解。
 
+   [点击查看资料](https://kdocs.cn/l/cpeVA4eWCZDX){:target="_blank"}
+
+   
+
    <a href="https://kdocs.cn/l/cpeVA4eWCZDX" target="_blank">点击查看资料</a>
 
 2. **Atlas**
