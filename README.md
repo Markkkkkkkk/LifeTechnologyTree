@@ -26,7 +26,7 @@
 
    [点击查看资料]()
 
-   <a href="https://kdocs.cn/l/cpeVA4eWCZDX" target="__blank"></a>
+   <a href="https://kdocs.cn/l/cpeVA4eWCZDX" target="__blank">点击查看资料</a>
 
 2. **Atlas**
 
