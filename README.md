@@ -22,7 +22,7 @@
 
 自己一定会亲自看且也感觉有重大帮助的资料（随着资料的补充，可能后续小伙伴提供的资料要求就越来越高了）。其他小伙伴的资料也想分享出来的话请联系
 
-<img src="./README.assets/saomajiawo.jpg" alt="saomajiawo" style="zoom:25%;" />
+<img src="./README.assets/saomajiawo.jpg" alt="saomajiawo" style="max-width: 25%;" />
 
 ## 目录
 
