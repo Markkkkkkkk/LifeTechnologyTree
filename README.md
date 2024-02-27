@@ -26,26 +26,4 @@
 
 ## 目录
 
-### 大数据相关
-
-1. **大数据架构图**
-
-   **简介**：提供了大致的大数据系统上的架构图，给初学者一个基本印象，知道一个基本的完整的大数据架构应该是怎样的，作为一个简单了解。
-
-   <a href="https://kdocs.cn/l/cpeVA4eWCZDX" target="_blank">点击查看资料</a>
-
-2. **Atlas**
-
-   **简介**：进行元数据管理，用以构建数据资产目录，形成数据字典。展示表与表、字段与字段之间的血缘关系等。
-
-   <a href="https://www.bilibili.com/video/BV1jA411F76d" target="_blank">视频地址</a>
-
-   <a href="https://kdocs.cn/l/coufH8iuMIxa" target="_blank">点击查看资料</a>
-
-3. **DataX**
-
-   **简介**：
-
-   <a href="https://www.bilibili.com/video/BV1jA411F76d" target="_blank">视频地址</a>
-
-   <a href="https://kdocs.cn/l/coufH8iuMIxa" target="_blank">点击查看资料</a>
+1. <a href="./大数据.md" target="_blank">大数据相关</a>
