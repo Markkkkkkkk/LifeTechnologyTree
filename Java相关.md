@@ -1,5 +1,17 @@
 # Java相关
 
+## 八股文面试全套专题
+
+**简介**：总结了关于Java面试全套技术八股文。
+
+<a href="https://www.bilibili.com/video/BV1yT411H7YK" target="_blank">视频地址</a>
+
+## MySQL
+
+**简介**：目前最流行的关系型数据库管理系统之一。
+
+<a href="https://www.bilibili.com/video/BV1Kr4y1i7ru" target="_blank">视频地址</a>
+
 ## Redis
 
 **简介**：基于内存的高性能数据库。
@@ -13,6 +25,12 @@
 <a href="https://www.bilibili.com/video/BV19y4y1b7Uo" target="_blank">视频地址</a>
 
 <a href="https://kdocs.cn/l/cbDSjvAuTrE8" target="_blank">点击查看资料</a>
+
+## JVM
+
+**简介**：Java运行虚拟机。
+
+<a href="https://www.bilibili.com/video/BV1yE411Z7AP" target="_blank">视频地址</a>
 
 ## Zookeeper
 
@@ -57,6 +75,12 @@
 **简介**：自动化运维工具，实现了批量系统配置、批量程序部署、批量运行命令等功能，仅需通过SSH连接客户机执行任务即可。
 
 <a href="https://www.bilibili.com/video/BV1eT4y177kx" target="_blank">视频地址</a>
+
+# Shell
+
+**简介**：shell编程。
+
+<a href="https://www.bilibili.com/video/BV1n84y1i7td" target="_blank">视频地址</a>
 
 # Pulsar
 
