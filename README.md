@@ -18,13 +18,13 @@
 
 &emsp;&emsp;曾几何时，你是否还记得自己想要干一件事，废寝忘食，枕戈待旦，最终功成名就，虽不是业内顶尖水平，但是能够在极短时间内达到前茅，你还是很欣慰的。这个项目讲述的就是这样的故事，同时也是希望你也能做到这样。
 
+## 目录
+
+1. <a href="./Java相关.md" target="_blank">Java相关</a>
+1. <a href="./大数据相关.md" target="_blank">大数据相关</a>
+
 ## 资料入选规则
 
 自己一定会亲自看且也感觉有重大帮助的资料（随着资料的补充，可能后续小伙伴提供的资料要求就越来越高了）。其他小伙伴的资料也想分享出来的话请联系
 
 <img src="./README.assets/saomajiawo.jpg" alt="saomajiawo" style="max-width: 25%;" />
-
-## 目录
-
-1. <a href="./Java相关.md" target="_blank">Java相关</a>
-1. <a href="./大数据相关.md" target="_blank">大数据相关</a>

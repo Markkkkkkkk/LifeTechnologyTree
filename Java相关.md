@@ -38,7 +38,25 @@
 
 **简介**：微服务配置管理中心。
 
-<a href="https://www.bilibili.com/video/BV1cK4y1L7Am" target="_blank">视频地址</a>
+<a href="https://www.bilibili.com/video/BV1eE41187sS" target="_blank">视频地址</a>
+
+## Skywalking
+
+**简介**：微服务全链路监控系统，分布式追踪，性能指标分析和服务依赖分析。
+
+<a href="https://www.bilibili.com/video/BV1ZJ411s7Mn" target="_blank">视频地址</a>
+
+## ShardingSphere
+
+**简介**：分布式数据库中间件，结合MySQL使用。
+
+<a href="https://www.bilibili.com/video/BV1ta411g7Jf" target="_blank">视频地址</a>
+
+# Ansible
+
+**简介**：自动化运维工具，实现了批量系统配置、批量程序部署、批量运行命令等功能，仅需通过SSH连接客户机执行任务即可。
+
+<a href="https://www.bilibili.com/video/BV1eT4y177kx" target="_blank">视频地址</a>
 
 # Pulsar
 
