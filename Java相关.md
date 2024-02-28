@@ -14,15 +14,37 @@
 
 <a href="https://kdocs.cn/l/cbDSjvAuTrE8" target="_blank">点击查看资料</a>
 
-# Pulsar
+## Zookeeper
 
-**简介**：消息队列中间件。
+**简介**：分布式协调中间件，为分布式应用提供一致性服务的工具。
 
-<a href="https://www.bilibili.com/video/BV1CF411v7Dh" target="_blank">视频地址</a>
+<a href="https://www.bilibili.com/video/BV1M741137qY" target="_blank">视频地址</a>
+
+<a href="https://kdocs.cn/l/clsYe41L55Ww" target="_blank">点击查看资料</a>
 
 ## Elasticsearch
 
 **简介**：文档搜索引擎工具。
 
 <a href="https://www.bilibili.com/video/BV1Gh411j7d6" target="_blank">视频地址</a>
+
+## Kubernetes
+
+**简介**：用于管理云平台中多个主机上的容器化应用，让部署容器化的应用简单并且高效。
+
+<a href="https://www.bilibili.com/video/BV1cK4y1L7Am" target="_blank">视频地址</a>
+
+## Apollo
+
+**简介**：微服务配置管理中心。
+
+<a href="https://www.bilibili.com/video/BV1cK4y1L7Am" target="_blank">视频地址</a>
+
+# Pulsar
+
+**简介**：消息队列中间件。
+
+<a href="https://www.bilibili.com/video/BV1CF411v7Dh" target="_blank">视频地址</a>
+
+
 
